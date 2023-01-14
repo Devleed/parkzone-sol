@@ -15,4 +15,5 @@ module.exports = {
   etherscan: {
     apiKey: '3MB1GI7WAG539CW1NKSHW22I7C2WH8HGB8',
   },
+  paths: ['@openzeppelin/contracts/contracts/*.sol'],
 };
